@@ -1,4 +1,4 @@
-// https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
+// 本题链接：https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
 // 本题思路来源y神,b站链接：https://space.bilibili.com/7836741
 
 // created by kevinlee21, 2020/5/26
