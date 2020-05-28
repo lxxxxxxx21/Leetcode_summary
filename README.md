@@ -13,18 +13,18 @@ HELLO，这里是Kevinlee21，
 
 **每日一题**（FROM 2020/5/27）
 
-| 编号 |                             题目                             |  难度  |                             解法                             | 日期 | beats Runtime |
-| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :--: | ------------- |
-| 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) | 5/27 | 100%          |
-| 394  | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) | 5/28 | 17.45%        |
+| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | 日期 | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :--: | ------------- |
+| 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) |   暂无   | 5/27 | 100%          |
+| 394  | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) |   暂无   | 5/28 | 17.45%        |
 
 ******
 
 **精选TOP 面试题**
 
-| 编号 |                            题目                             |  难度  |                             解法                             | beats Runtime |
-| :--: | :---------------------------------------------------------: | :----: | :----------------------------------------------------------: | :-----------: |
-| 289  | [ 生命游戏](https://leetcode-cn.com/problems/game-of-life/) | Medium | [模拟+位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/289/solution.js) |    65.36%     |
+| 编号 |                            题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
+| :--: | :---------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+| 289  | [ 生命游戏](https://leetcode-cn.com/problems/game-of-life/) | Medium | [模拟+位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/289/solution.js) |   暂无   |    65.36%     |
 
 
 
@@ -32,8 +32,8 @@ HELLO，这里是Kevinlee21，
 
 **双指针**
 
-| 编号 |                             题目                             | 难度 |                             解法                             | beats Runtime |
-| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :-----------: |
-| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) |    10.66%     |
-|  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | Hard | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |    56.63%     |
+| 编号 |                             题目                             | 难度 |                             解法                             |                           图文思路                           | beats Runtime |
+| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
+| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) | [点击进入](https://mp.weixin.qq.com/s/17fr1jqHkTgvblx-d6fZgA) |    10.66%     |
+|  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | Hard | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |                             暂无                             |    56.63%     |
 
