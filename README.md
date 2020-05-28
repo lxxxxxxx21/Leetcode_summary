@@ -22,11 +22,10 @@ HELLO，这里是Kevinlee21，
 
 **精选TOP 面试题**
 
-| 编号 |                            题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
-| :--: | :---------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
-| 289  | [ 生命游戏](https://leetcode-cn.com/problems/game-of-life/) | Medium | [模拟+位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/289/solution.js) |   暂无   |    65.36%     |
-
-
+| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+| 289  | [ 生命游戏](https://leetcode-cn.com/problems/game-of-life/)  | Medium | [模拟+位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/289/solution.js) |   暂无   |    65.36%     |
+| 238  | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) |   暂无   |    87.33%     |
 
 ******
 
