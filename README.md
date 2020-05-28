@@ -16,6 +16,7 @@ HELLO，这里是Kevinlee21，
 | 编号 |                             题目                             |  难度  |                             解法                             | 日期 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :--: | ------------- |
 | 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) | 5/27 | 100%          |
+| 394  | [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) | 5/28 | 17.45%        |
 
 ******
 
