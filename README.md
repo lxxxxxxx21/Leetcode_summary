@@ -38,3 +38,12 @@ HELLO，这里是Kevinlee21，
 | 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) | [点击进入](https://mp.weixin.qq.com/s/17fr1jqHkTgvblx-d6fZgA) |    10.66%     |
 |  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | Hard | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |                             暂无                             |    56.63%     |
 
+******
+
+DP
+
+| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+| 131  | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/DP/131/solution.js) |   暂无   |    33.91%     |
+|      |                                                              |        |                                                              |          |               |
+
