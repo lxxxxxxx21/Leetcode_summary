@@ -17,6 +17,7 @@ HELLO，这里是Kevinlee21，
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :--: | ------------- |
 | 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) |   暂无   | 5/27 | 100%          |
 | 394  | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) |   暂无   | 5/28 | 17.45%        |
+| 198  |  [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  Easy  | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/198/solution.js) |   暂无   | 5/29 | 13.60%        |
 
 ******
 
