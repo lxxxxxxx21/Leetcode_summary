@@ -18,6 +18,7 @@ HELLO，这里是Kevinlee21，
 | 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) |                             暂无                             | 5/27 | 100%          |
 | 394  | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) |                             暂无                             | 5/28 | 17.45%        |
 | 198  |  [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  Easy  | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/198/solution.js) | [点击进入](https://mp.weixin.qq.com/s/sQ9Ogvvt_ALGaqLTdqL1hg) | 5/29 | 13.60%        |
+|  84  | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |  Hard  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/84/solution.js) |                             暂无                             | 5/30 | 53.62%        |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |  Easy  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/101/solution.js) |                             暂无                             | 5/31 | 77.97%        |
 
 ******
