@@ -13,11 +13,12 @@ HELLO，这里是Kevinlee21，
 
 **每日一题**（FROM 2020/5/27）
 
-| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | 日期 | beats Runtime |
-| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :--: | ------------- |
-| 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) |   暂无   | 5/27 | 100%          |
-| 394  | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) |   暂无   | 5/28 | 17.45%        |
-| 198  |  [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  Easy  | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/198/solution.js) |   [点击进入](https://mp.weixin.qq.com/s/sQ9Ogvvt_ALGaqLTdqL1hg)   | 5/29 | 13.60%        |
+| 编号 |                             题目                             |  难度  |                             解法                             |                           图文思路                           | 日期 | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | ------------- |
+| 974  | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) |                             暂无                             | 5/27 | 100%          |
+| 394  | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) |                             暂无                             | 5/28 | 17.45%        |
+| 198  |  [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  Easy  | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/198/solution.js) | [点击进入](https://mp.weixin.qq.com/s/sQ9Ogvvt_ALGaqLTdqL1hg) | 5/29 | 13.60%        |
+| 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |  Easy  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/101/solution.js) |                             暂无                             | 5/31 | 77.97%        |
 
 ******
 
@@ -40,7 +41,7 @@ HELLO，这里是Kevinlee21，
 
 ******
 
-DP
+**DP**
 
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
