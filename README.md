@@ -10,6 +10,7 @@ HELLO，这里是Kevinlee21，
 + [two-points【双指针】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/two-points)
 + [DP【动态规划】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/DP)
 + [Binary_tree【二叉树】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/Binary_tree)
++ [string【字符串】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/string)
 
 ******
 
@@ -33,6 +34,8 @@ HELLO，这里是Kevinlee21，
 | 289  | [ 生命游戏](https://leetcode-cn.com/problems/game-of-life/)  | Medium | [模拟+位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/289/solution.js) |   暂无   |    65.36%     |
 | 238  | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) |   暂无   |    87.33%     |
 | 131  | [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | Medium | [DP + 回溯](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/131/solution.js) |   暂无   |    29.64%     |
+
+******
 
 **双指针**
 
@@ -58,4 +61,11 @@ HELLO，这里是Kevinlee21，
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
 | 337  | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | Medium | [DFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_tree/337/solution.js) |   暂无   |     8.04%     |
 |      |                                                              |        |                                                              |          |               |
+
+字符串
+
+| 编号 |                             题目                             |  难度  |                             解法                             |                           图文思路                           | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
+|  8   | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | Medium | [DFA(有限状态机)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/string/8/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483687&idx=1&sn=111c891298461052f45fc058aaa3cc60&chksm=e8e4d8ebdf9351fdf1df06033be4a066ceaaf857bee23658f4e2258f915b2ffa9a8732bcaa7a&token=1404226965&lang=zh_CN#rd) |    13.61%     |
+|      |                                                              |        |                                                              |                                                              |               |
 
