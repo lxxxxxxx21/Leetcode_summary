@@ -1,7 +1,7 @@
 # Leetcode总结
 HELLO，这里是Kevinlee21，
 
-本开源项目用于总结自己刷leetcode算法题，使用的语言为JavaScript
+本开源项目用于总结自己刷leetcode算法题，使用的语言为JavaScript（由kevinlee21编写），python（由WJH编写）
 
 目前按照分类有：
 
@@ -24,7 +24,7 @@ HELLO，这里是Kevinlee21，
 |    84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |  Hard  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/84/solution.js) |                             暂无                             | 5/30 | 53.62%        |
 |   101    | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |  Easy  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/101/solution.js) |                             暂无                             | 5/31 | 77.97%        |
 |   1431   | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1431/solution.js) |                             暂无                             | 6/1  | 60.9%         |
-| 面试题64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  | Medium | [快速乘](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.js) |                             暂无                             | 6/2  | 54.4%         |
+| 面试题64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  | Medium | [快速乘(JS版)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.js)/[快速乘(python版)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.py) |                             暂无                             | 6/2  | 54.4%         |
 
 ******
 
