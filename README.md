@@ -39,6 +39,9 @@ HELLO，这里是Kevinlee21，
 |  73  | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/73/solution.js) |   暂无   |    52.59%     |
 | 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Binary_tree](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/230/solution.js) |   暂无   |    32.17%     |
 | 279  | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | Medium | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/279/solution.js) |   暂无   |    31.51%     |
+| 347  | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | Medium | [桶排序](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/347/solution.js) |   暂无   |    20.81%     |
+
+
 
 ******
 
