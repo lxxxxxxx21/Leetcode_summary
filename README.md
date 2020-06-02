@@ -36,6 +36,9 @@ HELLO，这里是Kevinlee21，
 | 238  | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) |   暂无   |    87.33%     |
 | 131  | [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | Medium | [DP + 回溯](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/131/solution.js) |   暂无   |    29.64%     |
 | 208  | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | Medium | [Dictionary_Tree](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/208/solution.js) |   暂无   |    15.41%     |
+|  73  | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/73/solution.js) |   暂无   |    52.59%     |
+| 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Binary_tree](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/230/solution.js) |   暂无   |    32.17%     |
+| 279  | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | Medium | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/279/solution.js) |   暂无   |    31.51%     |
 
 ******
 
