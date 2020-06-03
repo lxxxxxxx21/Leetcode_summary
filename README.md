@@ -5,12 +5,6 @@ HELLO，这里是Kevinlee21，
 
 目前小组成员有：[kevinlee21(lee.x.x)](https://github.com/lxxxxxxx21)，[Tranfer(Janhui Wang)](https://github.com/Xtuxiaojian)
 
-图文思路会上传到：
-
-​                                            ![weixin](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/weixin.png) 
-
-​                                                                           **欢迎订阅**
-
 目前按照分类有：
 
 + [每日一题](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/daily "From 2020/5/27")
