@@ -1,7 +1,15 @@
 # Leetcode总结
 HELLO，这里是Kevinlee21，
 
-本开源项目用于总结自己刷leetcode算法题，使用的语言为JavaScript（由kevinlee21编写），python（由WJH编写）
+本开源项目用于总结自己和小伙伴刷leetcode算法题，使用的语言为JavaScript（由kevinlee21编写），python（由WJH编写）
+
+目前小组成员有：[kevinlee21(lee.x.x)](https://github.com/lxxxxxxx21)，[Tranfer(Janhui Wang)](https://github.com/Xtuxiaojian)
+
+图文思路会上传到：
+
+​                                            ![weixin](C:\Users\x1c\Desktop\leetcode\weixin.png) 
+
+​                                                                           **欢迎订阅**
 
 目前按照分类有：
 
