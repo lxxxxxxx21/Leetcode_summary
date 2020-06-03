@@ -7,7 +7,7 @@ HELLO，这里是Kevinlee21，
 
 图文思路会上传到：
 
-​                                            ![weixin](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/weixin.png) 
+​                                            ![weixin](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/weixin.png) 
 
 ​                                                                           **欢迎订阅**
 
