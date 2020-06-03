@@ -24,7 +24,8 @@ HELLO，这里是Kevinlee21，
 |    84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |  Hard  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/84/solution.js) |                             暂无                             | 5/30 | 53.62%        |
 |   101    | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |  Easy  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/101/solution.js) |                             暂无                             | 5/31 | 77.97%        |
 |   1431   | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1431/solution.js) |                             暂无                             | 6/1  | 60.9%         |
-| 面试题64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  | Medium | [快速乘(JS版)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.js)/[快速乘(python版)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.py) |                             暂无                             | 6/2  | 54.4%         |
+| 面试题64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  | Medium | [快速乘(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.js)/[快速乘(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.py) |                             暂无                             | 6/2  | 54.4%         |
+|   837    |   [新21点](https://leetcode-cn.com/problems/new-21-game/)    | Medium | [DP(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/837/solution.py) |                             暂无                             | 6/3  | 99.2%         |
 
 ******
 
@@ -40,6 +41,8 @@ HELLO，这里是Kevinlee21，
 | 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Binary_tree](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/230/solution.js) |   暂无   |    32.17%     |
 | 279  | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | Medium | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/279/solution.js) |   暂无   |    31.51%     |
 | 347  | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | Medium | [桶排序](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/347/solution.js) |   暂无   |    20.81%     |
+| 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | Medium | [堆](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/215/solution.js) |   暂无   |     5.02%     |
+| 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | Medium | [链表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/328/solution.js) |   暂无   |    12.36%     |
 
 
 
