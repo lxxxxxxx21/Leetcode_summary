@@ -27,7 +27,7 @@ HELLO，这里是Kevinlee21，
 |   101    | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |  Easy  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/101/solution.js) |                             暂无                             | 5/31 | 77.97%        |
 |   1431   | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1431/solution.js) |                             暂无                             | 6/1  | 60.9%         |
 | 面试题64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  | Medium | [快速乘(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.js)/[快速乘(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.py) |                             暂无                             | 6/2  | 54.4%         |
-|   837    |   [新21点](https://leetcode-cn.com/problems/new-21-game/)    | Medium | [DP(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/837/solution.py) |                             暂无                             | 6/3  | 99.2%         |
+|   837    |   [新21点](https://leetcode-cn.com/problems/new-21-game/)    | Medium | [DP(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/837/solution.py) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483704&idx=1&sn=b6a43295f5434963f1a84524ecef438b&chksm=e8e4d8f4df9351e25657294924b9efd73f14b7cdaadf2cbb17df8215e8a62baa5c8518d197db&token=1309723332&lang=zh_CN#rd) | 6/3  | 99.2%         |
 
 ******
 
