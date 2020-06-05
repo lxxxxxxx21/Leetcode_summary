@@ -27,8 +27,9 @@ HELLO，这里是Kevinlee21，
 |   101    | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |  Easy  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/101/solution.js) |                             暂无                             | 5/31 | 77.97%        |
 |   1431   | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1431/solution.js) |                             暂无                             | 6/1  | 60.9%         |
 | 面试题64 | [求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)  | Medium | [快速乘(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.js)/[快速乘(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题64/solution.py) |                             暂无                             | 6/2  | 54.4%         |
-|   837    |   [新21点](https://leetcode-cn.com/problems/new-21-game/)    | Medium | [DP(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/837/solution.py) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483704&idx=1&sn=b6a43295f5434963f1a84524ecef438b&chksm=e8e4d8f4df9351e25657294924b9efd73f14b7cdaadf2cbb17df8215e8a62baa5c8518d197db&token=1309723332&lang=zh_CN#rd) | 6/3  | 99.2%         |
-|   238    | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) |                             暂无                             | 6/4  | 87.33%        |
+|   837    |   [新21点](https://leetcode-cn.com/problems/new-21-game/)    | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/837/solution.py) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483704&idx=1&sn=b6a43295f5434963f1a84524ecef438b&chksm=e8e4d8f4df9351e25657294924b9efd73f14b7cdaadf2cbb17df8215e8a62baa5c8518d197db&token=1309723332&lang=zh_CN#rd) | 6/3  | 99.2%         |
+|   238    | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483711&idx=1&sn=031451dcfc26764bcd962247d44eeae6&chksm=e8e4d8f3df9351e59d83af26e8d8b5bf809eb4ce276258f40e194a32952f8f831344f89a32b6&token=531641606&lang=zh_CN#rd) | 6/4  | 87.33%        |
+| 面试题29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/面试题29/solution1.js) |                             暂无                             | 6/5  | 94.55%        |
 
 ******
 
@@ -83,4 +84,12 @@ HELLO，这里是Kevinlee21，
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
 |  8   | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | Medium | [DFA(有限状态机)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/string/8/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483687&idx=1&sn=111c891298461052f45fc058aaa3cc60&chksm=e8e4d8ebdf9351fdf1df06033be4a066ceaaf857bee23658f4e2258f915b2ffa9a8732bcaa7a&token=1404226965&lang=zh_CN#rd) |    13.61%     |
 |      |                                                              |        |                                                              |                                                              |               |
+
+**二分法**
+
+| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+| 852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |  Easy  | [二分](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    31.97%     |
+|  34  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [二分](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    34.05%     |
+|      |                                                              |        |                                                              |          |               |
 
