@@ -48,6 +48,7 @@ HELLO，这里是Kevinlee21，
 | 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | Medium | [堆](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/215/solution.js) |   暂无   |     5.02%     |
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | Medium | [链表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/328/solution.js) |   暂无   |    12.36%     |
 | 454  |   [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)   | Medium | [Hash_Map](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/454/solution.js) |   暂无   |    64.85%     |
+|  36  | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | Medium | [位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/36/solution.js) |   暂无   |    84.64%     |
 
 
 
