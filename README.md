@@ -54,7 +54,7 @@ HELLO，这里是Kevinlee21，
 
 ******
 
-**双指针**
+**Two Points	(双指针)**
 
 | 编号 |                             题目                             | 难度 |                             解法                             |                           图文思路                           | beats Runtime |
 | :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
@@ -63,7 +63,7 @@ HELLO，这里是Kevinlee21，
 
 
 
-**动态规划**
+**DP	(动态规划)**
 
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
@@ -72,30 +72,36 @@ HELLO，这里是Kevinlee21，
 
 
 
-**二叉树**
+**Binary Tree	(二叉树)**
 
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
 | 337  | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | Medium | [DFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_tree/337/solution.js) |   暂无   |     8.04%     |
 |      |                                                              |        |                                                              |          |               |
 
-**字符串**
+**String	(字符串)**
 
 | 编号 |                             题目                             |  难度  |                             解法                             |                           图文思路                           | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
 |  8   | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | Medium | [DFA(有限状态机)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/string/8/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483687&idx=1&sn=111c891298461052f45fc058aaa3cc60&chksm=e8e4d8ebdf9351fdf1df06033be4a066ceaaf857bee23658f4e2258f915b2ffa9a8732bcaa7a&token=1404226965&lang=zh_CN#rd) |    13.61%     |
 |      |                                                              |        |                                                              |                                                              |               |
 
-**二分法**
+**Binary Search Algorithm	(二分搜索算法)**
 
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
 | 852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |  Easy  | [二分](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    31.97%     |
 |  34  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [二分](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    34.05%     |
 
-**回溯算法**
+**Backtrack（回溯）**
 
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
 |  17  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Backtrack/17/solution.js) |   暂无   |    72.05%     |
+
+**Greedy_Algorithm	(贪心算法)**
+
+| 编号 |                          题目                           |  难度  |                             解法                             | 图文思路 | beats Runtime |
+| :--: | :-----------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+| 134  | [加油站](https://leetcode-cn.com/problems/gas-station/) | Medium | [贪心算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Greedy_Algorithm/134/solution.js) |   暂无   |    12.67%     |
 
