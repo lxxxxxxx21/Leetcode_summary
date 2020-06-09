@@ -31,6 +31,7 @@ HELLO，这里是Kevinlee21，
 |   238    | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483711&idx=1&sn=031451dcfc26764bcd962247d44eeae6&chksm=e8e4d8f3df9351e59d83af26e8d8b5bf809eb4ce276258f40e194a32952f8f831344f89a32b6&token=531641606&lang=zh_CN#rd) | 6/4  | 87.33%        |
 | 面试题29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题29/solution.py) |                             暂无                             | 6/5  | 94.55%        |
 |   128    | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | Medium | [哈希表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/128/solution.py) |                             暂无                             | 6/6  | 76.01%        |
+| 面试题46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题46/solution.js) |                             暂无                             | 6/9  | 74.65%        |
 
 ******
 
