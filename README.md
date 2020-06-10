@@ -16,11 +16,35 @@ HELLO，这里是Kevinlee21，
 
 ******
 
+**AC wing Leetcode究极班打卡记录**
+
+| 题号 |  难度  | 考察知识点 | 是否完成 |
+| :--: | :----: | :--------: | :------: |
+|  1   |  Easy  |            |    √     |
+|  2   | Medium |            |    √     |
+|  3   | Medium |            |    √     |
+|  4   |  Hard  |            |    √     |
+|  5   | Medium |            |    √     |
+|  6   | Medium |            |    √     |
+|  7   |  Easy  |            |    √     |
+|  8   | Medium |            |    √     |
+|  9   | Medium |            |    √     |
+|  10  |  Hard  |            |          |
+|  11  | Medium |   双指针   |    √     |
+|  12  | Medium |            |          |
+|  13  |  Easy  |            |          |
+|  14  |  Easy  |   字符串   |    √     |
+|  15  | Medium |   双指针   |    √     |
+|  16  | Medium |   双指针   |    √     |
+|  17  | Medium |  回溯算法  |    √     |
+
+******
+
 **每日一题**（FROM 2020/5/27）
 
 |   编号   |                             题目                             |  难度  |                             解法                             |                           图文思路                           | 日期 | beats Runtime |
 | :------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | ------------- |
-|   974    | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) |                             暂无                             | 5/27 | 100%          |
+|   974    | [和可被K整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | Medium | [前缀和](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/974/solution2.js) | [点击进入](https://mp.weixin.qq.com/s/17fr1jqHkTgvblx-d6fZgA) | 5/27 | 100%          |
 |   394    | [ 字符串解码](https://leetcode-cn.com/problems/decode-string/) | Medium | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/394/solution.js) |                             暂无                             | 5/28 | 17.45%        |
 |   198    |  [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  |  Easy  | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/198/solution.js) | [点击进入](https://mp.weixin.qq.com/s/sQ9Ogvvt_ALGaqLTdqL1hg) | 5/29 | 13.60%        |
 |    84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |  Hard  | [栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/84/solution.js) |                             暂无                             | 5/30 | 53.62%        |
@@ -31,7 +55,7 @@ HELLO，这里是Kevinlee21，
 |   238    | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483711&idx=1&sn=031451dcfc26764bcd962247d44eeae6&chksm=e8e4d8f3df9351e59d83af26e8d8b5bf809eb4ce276258f40e194a32952f8f831344f89a32b6&token=531641606&lang=zh_CN#rd) | 6/4  | 87.33%        |
 | 面试题29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) |  Easy  | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题29/solution.py) |                             暂无                             | 6/5  | 94.55%        |
 |   128    | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | Medium | [哈希表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/128/solution.py) |                             暂无                             | 6/6  | 76.01%        |
-| 面试题46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题46/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&tempkey=MTA2NF9jT1hwUVorQVlBWE5IYTc5RHZxZVA2bmZYWkhQVjNsbGpJb3FDZGpiWWtIVll2VGZjVlZNcUpvUzZtY2VkWGIxRTRkQ2FzeFJWby1ZYmxqcUJjWW1zXzJ5ellPWWc3bGV4VC0zcXBucW5rN1h6UV90d2ZyN0RjVDN5Q3ZLV083eFBLczRKUGFiSmtBdHBCYVVqRlB5LVJpajh5NlA5Xzg0NzQ0ZDlRfn4%3D&chksm=68e4d8ae5f9351b8229cc55f2f448294b0b0908041a32e9b5bea46610a7bf80315c84f130ea6#rd) | 6/9  | 74.65%        |
+| 面试题46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题46/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483747&idx=1&sn=cc4205cbb8514f5efb60fb9759f5ef3b&chksm=e8e4d8afdf9351b97a4071775ee76a5f1004e06f1e0671294e23c22ddc5fac38a4646048d8da&token=1413279124&lang=zh_CN#rd) | 6/9  | 74.65%        |
 |    9     | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |  Easy  | [数学](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) |                             暂无                             | 6/10 | 76.27%        |
 
 ******
@@ -59,10 +83,12 @@ HELLO，这里是Kevinlee21，
 
 **Two Points	(双指针)**
 
-| 编号 |                             题目                             | 难度 |                             解法                             |                           图文思路                           | beats Runtime |
-| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
-| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) | [点击进入](https://mp.weixin.qq.com/s/17fr1jqHkTgvblx-d6fZgA) |    10.66%     |
-|  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | Hard | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |                             暂无                             |    56.63%     |
+| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |  Easy  | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) |   暂无   |    10.66%     |
+|  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  Hard  | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |   暂无   |    56.63%     |
+|  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/15/solution.js) |   暂无   |    10.01%     |
+|  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/16/solution.js) |   暂无   |    33.64%     |
 
 
 
@@ -71,7 +97,6 @@ HELLO，这里是Kevinlee21，
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
 | 131  | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/DP/131/solution.js) |   暂无   |    33.91%     |
-|      |                                                              |        |                                                              |          |               |
 
 
 
