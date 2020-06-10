@@ -18,25 +18,25 @@ HELLO，这里是Kevinlee21，
 
 **AC wing Leetcode究极班打卡记录**
 
-| 题号 |  难度  | 考察知识点 | 是否完成 |
-| :--: | :----: | :--------: | :------: |
-|  1   |  Easy  |            |    √     |
-|  2   | Medium |            |    √     |
-|  3   | Medium |            |    √     |
-|  4   |  Hard  |            |    √     |
-|  5   | Medium |            |    √     |
-|  6   | Medium |            |    √     |
-|  7   |  Easy  |            |    √     |
-|  8   | Medium |            |    √     |
-|  9   | Medium |            |    √     |
-|  10  |  Hard  |            |          |
-|  11  | Medium |   双指针   |    √     |
-|  12  | Medium |            |          |
-|  13  |  Easy  |            |          |
-|  14  |  Easy  |   字符串   |    √     |
-|  15  | Medium |   双指针   |    √     |
-|  16  | Medium |   双指针   |    √     |
-|  17  | Medium |  回溯算法  |    √     |
+| 题号 |  难度  | 考察知识点 | kevinlee | Janhui Wang |
+| :--: | :----: | :--------: | :------: | ----------- |
+|  1   |  Easy  |            |    √     |             |
+|  2   | Medium |            |    √     |             |
+|  3   | Medium |            |    √     |             |
+|  4   |  Hard  |            |    √     |             |
+|  5   | Medium |            |    √     |             |
+|  6   | Medium |            |    √     |             |
+|  7   |  Easy  |            |    √     |             |
+|  8   | Medium |            |    √     |             |
+|  9   | Medium |            |    √     |             |
+|  10  |  Hard  |            |          |             |
+|  11  | Medium |   双指针   |    √     |             |
+|  12  | Medium |            |          |             |
+|  13  |  Easy  |            |          |             |
+|  14  |  Easy  |   字符串   |    √     |             |
+|  15  | Medium |   双指针   |    √     |             |
+|  16  | Medium |   双指针   |    √     |             |
+|  17  | Medium |  回溯算法  |    √     |             |
 
 ******
 
@@ -83,12 +83,12 @@ HELLO，这里是Kevinlee21，
 
 **Two Points	(双指针)**
 
-| 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
-| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
-| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |  Easy  | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) |   暂无   |    10.66%     |
-|  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  Hard  | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |   暂无   |    56.63%     |
-|  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/15/solution.js) |   暂无   |    10.01%     |
-|  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/16/solution.js) |   暂无   |    33.64%     |
+| 编号 |                             题目                             |  难度  |                             解法                             |                           图文思路                           | beats Runtime |
+| :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-----------: |
+| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |  Easy  | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/167/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483753&idx=1&sn=60efff00d8375e7e7958490b2996a8a2&chksm=e8e4d8a5df9351b3c8db6eba2c47b28ef3fa42bf252f5eb234b28ed881fc7a94e7822609386b&token=1413279124&lang=zh_CN#rd) |    10.66%     |
+|  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  Hard  | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |                             暂无                             |    56.63%     |
+|  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/15/solution.js) |                             暂无                             |    10.01%     |
+|  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/16/solution.js) |                             暂无                             |    33.64%     |
 
 
 
