@@ -18,25 +18,27 @@ HELLO，这里是Kevinlee21，
 
 **AC wing Leetcode究极班打卡记录**
 
-| 题号 |  难度  | 考察知识点 | kevinlee | Janhui Wang |
-| :--: | :----: | :--------: | :------: | ----------- |
-|  1   |  Easy  |            |    √     |             |
-|  2   | Medium |            |    √     |             |
-|  3   | Medium |            |    √     |             |
-|  4   |  Hard  |            |    √     |             |
-|  5   | Medium |            |    √     |             |
-|  6   | Medium |            |    √     |             |
-|  7   |  Easy  |            |    √     |             |
-|  8   | Medium |            |    √     |             |
-|  9   | Medium |            |    √     |             |
-|  10  |  Hard  |            |          |             |
-|  11  | Medium |   双指针   |    √     |             |
-|  12  | Medium |            |          |             |
-|  13  |  Easy  |            |          |             |
-|  14  |  Easy  |   字符串   |    √     |             |
-|  15  | Medium |   双指针   |    √     |             |
-|  16  | Medium |   双指针   |    √     |             |
-|  17  | Medium |  回溯算法  |    √     |             |
+| 题号 |  难度  |  考察知识点   | kevinlee | Janhui Wang |
+| :--: | :----: | :-----------: | :------: | ----------- |
+|  1   |  Easy  |               |    √     |             |
+|  2   | Medium |               |    √     |             |
+|  3   | Medium |               |    √     |             |
+|  4   |  Hard  |               |    √     |             |
+|  5   | Medium |               |    √     |             |
+|  6   | Medium |               |    √     |             |
+|  7   |  Easy  |               |    √     |             |
+|  8   | Medium |               |    √     |             |
+|  9   | Medium |               |    √     |             |
+|  10  |  Hard  |               |          |             |
+|  11  | Medium |    双指针     |    √     |             |
+|  12  | Medium |               |          |             |
+|  13  |  Easy  |               |          |             |
+|  14  |  Easy  |    字符串     |    √     |             |
+|  15  | Medium |    双指针     |    √     |             |
+|  16  | Medium |    双指针     |    √     |             |
+|  17  | Medium |   回溯算法    |    √     |             |
+|  18  | Medium | 双指针+哈希表 |    √     |             |
+|  19  | Medium |    双指针     |    √     |             |
 
 ******
 
@@ -89,6 +91,7 @@ HELLO，这里是Kevinlee21，
 |  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  Hard  | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |                             暂无                             |    56.63%     |
 |  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/15/solution.js) |                             暂无                             |    10.01%     |
 |  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/16/solution.js) |                             暂无                             |    33.64%     |
+|  19  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/19/solution.js) |                             暂无                             |     83.3%     |
 
 
 
