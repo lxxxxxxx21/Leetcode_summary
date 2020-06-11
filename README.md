@@ -70,7 +70,7 @@ HELLO，这里是Kevinlee21，
 |   128    | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | Medium | [哈希表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/128/solution.py) |                             暂无                             | 6/6  |    76.01%     |
 | 面试题46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题46/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483747&idx=1&sn=cc4205cbb8514f5efb60fb9759f5ef3b&chksm=e8e4d8afdf9351b97a4071775ee76a5f1004e06f1e0671294e23c22ddc5fac38a4646048d8da&token=1413279124&lang=zh_CN#rd) | 6/9  |    74.65%     |
 |    9     | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |  Easy  | [数学](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) |                             暂无                             | 6/10 |    76.27%     |
-|   739    | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | Medium | [单调栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) |                             暂无                             | 6/11 |    78.85%     |
+|   739    | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | Medium | [单调栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483762&idx=1&sn=8790443ab59744452efe67b3fb5ba2ab&chksm=e8e4d8bedf9351a8e4fd1629684930efe6feb52ec2765bbc2ba2026def7b2c81f440aeed6463&token=1401854426&lang=zh_CN#rd) | 6/11 |    78.85%     |
 
 ******
 
@@ -132,8 +132,9 @@ HELLO，这里是Kevinlee21，
 
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
-| 852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |  Easy  | [二分](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    31.97%     |
-|  34  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [二分](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    34.05%     |
+| 852  | [山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |  Easy  | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    31.97%     |
+|  34  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/34/solution.py) |   暂无   |    34.05%     |
+|  29  | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Binary_Search/29/solution.js) |   暂无   |    58.31%     |
 
 
 
