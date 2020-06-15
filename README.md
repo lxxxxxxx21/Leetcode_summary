@@ -27,7 +27,7 @@ HELLO，这里是Kevinlee21，
 |  5   |  Medium  |               |    √     |             |
 |  6   |  Medium  |               |    √     |             |
 |  7   |   Easy   |               |    √     |             |
-|  8   |  Medium  |               |    √     |             |
+|  8   |  Medium  |       0       |    √     |             |
 |  9   |  Medium  |               |    √     |             |
 |  10  | **Hard** |               |          |             |
 |  11  |  Medium  |    双指针     |    √     |             |
@@ -71,6 +71,10 @@ HELLO，这里是Kevinlee21，
 | 面试题46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题46/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483747&idx=1&sn=cc4205cbb8514f5efb60fb9759f5ef3b&chksm=e8e4d8afdf9351b97a4071775ee76a5f1004e06f1e0671294e23c22ddc5fac38a4646048d8da&token=1413279124&lang=zh_CN#rd) | 6/9  |    74.65%     |
 |    9     | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |  Easy  | [数学](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) |                             暂无                             | 6/10 |    76.27%     |
 |   739    | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | Medium | [单调栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483762&idx=1&sn=8790443ab59744452efe67b3fb5ba2ab&chksm=e8e4d8bedf9351a8e4fd1629684930efe6feb52ec2765bbc2ba2026def7b2c81f440aeed6463&token=1401854426&lang=zh_CN#rd) | 6/11 |    78.85%     |
+|    15    |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/15/solution.js) |                             暂无                             | 6/12 |    32.72%     |
+|    70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1300/solution.js) |                             暂无                             | 6/13 |    11.57%     |
+|   1300   | [转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/70/solution.js) |                             暂无                             | 6/14 |    35.71%     |
+|    14    | [ 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) |  Easy  | [字符串](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.js) |                             暂无                             | 6/15 |    70.88%     |
 
 ******
 
