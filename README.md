@@ -76,6 +76,7 @@ HELLO，这里是Kevinlee21，
 |   1300   | [转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/70/solution.js) |                             暂无                             | 6/14 |    35.71%     |
 |    14    | [ 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) |  Easy  | [字符串](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483769&idx=1&sn=6ae331985e9d7e16390988355883d348&chksm=e8e4d8b5df9351a3102b38a90da5daeb08447d77e607cdf8c24ae676d86b4d18759026fc60d0&token=1675470796&lang=zh_CN#rd) | 6/15 |    70.88%     |
 |   297    | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  Hard  | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.py) |                             暂无                             | 6/16 |     74.4%     |
+|   1014   | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.js) |                             暂无                             | 6/17 |    33.71%     |
 
 ******
 
