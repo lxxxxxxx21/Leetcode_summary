@@ -96,6 +96,7 @@ HELLO，这里是Kevinlee21，
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | Medium | [链表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/328/solution.js) |                             暂无                             |    12.36%     |
 | 454  |   [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)   | Medium | [Hash_Map](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/454/solution.js) |                             暂无                             |    64.85%     |
 |  36  | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | Medium | [位运算](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/36/solution.js) | [点击进入](https://mp.weixin.qq.com/s/LSJL5AhjBqy6vcSjYp6Rvg) |    84.64%     |
+| 384  | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) | Medium | [概率论](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/384/solution.js) |                             暂无                             |    97.19%     |
 
 ******
 
