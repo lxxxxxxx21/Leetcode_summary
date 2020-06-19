@@ -1,4 +1,5 @@
 # Leetcode总结
+
 HELLO，这里是Kevinlee21，
 
 本开源项目用于总结自己和小伙伴刷leetcode算法题，使用的语言为JavaScript（由kevinlee21编写），python（由WJH编写），C++（由LYT编写）
@@ -50,6 +51,7 @@ HELLO，这里是Kevinlee21，
 |  28  |   Easy   |    双指针     |    √     |             |
 |  29  |  Medium  |    二分法     |    √     |             |
 |  30  | **Hard** |               |          |             |
+|  31  |  Miduem  |     数组      |    √     |             |
 
 ******
 
@@ -70,7 +72,7 @@ HELLO，这里是Kevinlee21，
 |   128    | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | Medium | [哈希表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/128/solution.py) |                             暂无                             | 6/6  |    76.01%     |
 | 面试题46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | [回溯算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题46/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483747&idx=1&sn=cc4205cbb8514f5efb60fb9759f5ef3b&chksm=e8e4d8afdf9351b97a4071775ee76a5f1004e06f1e0671294e23c22ddc5fac38a4646048d8da&token=1413279124&lang=zh_CN#rd) | 6/9  |    74.65%     |
 |    9     | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |  Easy  | [数学(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js)/[String(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js) |                             暂无                             | 6/10 |    76.27%     |
-|   739    | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | Medium | [单调栈(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.js)/[单调栈(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.cpp) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483762&idx=1&sn=8790443ab59744452efe67b3fb5ba2ab&chksm=e8e4d8bedf9351a8e4fd1629684930efe6feb52ec2765bbc2ba2026def7b2c81f440aeed6463&token=1401854426&lang=zh_CN#rd) | 6/11 |    78.85%     |
+|   739    | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | Medium | [单调栈](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/9/solution.cpp) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483762&idx=1&sn=8790443ab59744452efe67b3fb5ba2ab&chksm=e8e4d8bedf9351a8e4fd1629684930efe6feb52ec2765bbc2ba2026def7b2c81f440aeed6463&token=1401854426&lang=zh_CN#rd) | 6/11 |    78.85%     |
 |    15    |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/15/solution.js) |                             暂无                             | 6/12 |    32.72%     |
 |    70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1300/solution.js) |                             暂无                             | 6/13 |    11.57%     |
 |   1300   | [转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/70/solution.js) |                             暂无                             | 6/14 |    35.71%     |
@@ -78,7 +80,7 @@ HELLO，这里是Kevinlee21，
 |   297    | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  Hard  | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.py) |                             暂无                             | 6/16 |    74.40%     |
 |   1014   | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | Medium | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.js)/[数组(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.cpp)/[数组(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.py) |                             暂无                             | 6/17 |    33.71%     |
 |   1028   | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |  Hard  | [DFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.js)/[递归(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.py) |                             暂无                             | 6/18 |    50.00%     |
-|   125    | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  Easy  | [字符串(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.js)/[字符串(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.cpp) | [字符串](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.js)暂无 | 6/19 |    60.59%     |
+|   125    | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  Easy  | [字符串](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.js) |                             暂无                             | 6/19 |    60.59%     |
 
 ******
 
@@ -162,3 +164,16 @@ HELLO，这里是Kevinlee21，
 | 134  | [加油站](https://leetcode-cn.com/problems/gas-station/) | Medium | [贪心算法](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/Greedy_Algorithm/134/solution.js) |   暂无   |    12.67%     |
 
  
+
+**数组**
+
+|   编号   |                             题目                             |  难度  |                             解法                             | 图文思路 | BEATS RUNTIME |
+| :------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
+|    31    | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/arr/31/solution.js) |   暂无   |    53.02%     |
+| 面试题29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) |  Easy  | [数组(python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题29/solution.py)/[数组(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题29/solution.cpp) |   暂无   |    94.55%     |
+|   1431   | [拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) |  Easy  | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1431/solution.js)/[数组(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1431/solution.cpp) |   暂无   |     60.9%     |
+|   1014   | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | Medium | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.js)/[数组(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.cpp)/[数组(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.py) |   暂无   |    33.71%     |
+|    73    | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/73/solution.js) |   暂无   |    52.59%     |
+|   238    | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) |   暂无   |    87.33%     |
+|          |                                                              |        |                                                              |          |               |
+
