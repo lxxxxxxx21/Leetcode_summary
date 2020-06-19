@@ -78,6 +78,7 @@ HELLO，这里是Kevinlee21，
 |   297    | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  Hard  | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.py) |                             暂无                             | 6/16 |    74.40%     |
 |   1014   | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | Medium | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.js)/[数组(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.cpp)/[数组(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.py) |                             暂无                             | 6/17 |    33.71%     |
 |   1028   | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |  Hard  | [DFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.js)/[递归(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.py) |                             暂无                             | 6/18 |    50.00%     |
+|   125    | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  Easy  | [字符串](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.js) |                             暂无                             | 6/19 |    60.59%     |
 
 ******
 
