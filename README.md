@@ -28,7 +28,7 @@ HELLO，这里是Kevinlee21，
 |  5   |  Medium  |               |    √     |             |
 |  6   |  Medium  |               |    √     |             |
 |  7   |   Easy   |               |    √     |             |
-|  8   |  Medium  |       0       |    √     |             |
+|  8   |  Medium  |               |    √     |             |
 |  9   |  Medium  |               |    √     |             |
 |  10  | **Hard** |               |          |             |
 |  11  |  Medium  |    双指针     |    √     |             |
@@ -82,6 +82,8 @@ HELLO，这里是Kevinlee21，
 |   1028   | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |  Hard  | [DFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.js)/[递归(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.py) |                             暂无                             | 6/18 |    50.00%     |
 |   125    | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  Easy  | [字符串(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.js)/[字符串(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.cpp) |                             暂无                             | 6/19 |    60.59%     |
 |   124    | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |  Hard  | [DFS(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/124/solution.js) |                             暂无                             | 6/21 |    61.28%     |
+|    16    | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/16/solution.js) |                             暂无                             | 6/24 |    95.26%     |
+|   139    |   [单词拆分](https://leetcode-cn.com/problems/word-break/)   | Medium | [DP(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/139/solution.js) |                             暂无                             | 6/25 |    83.89%     |
 
 ******
 
@@ -114,6 +116,7 @@ HELLO，这里是Kevinlee21，
 |  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/15/solution.js) |                             暂无                             |    10.01%     |
 |  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/16/solution.js) |                             暂无                             |    33.64%     |
 |  19  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/19/solution.js) |                             暂无                             |     83.3%     |
+|  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/16/solution.js) |                             暂无                             |    95.26%     |
 
 
 
@@ -122,6 +125,7 @@ HELLO，这里是Kevinlee21，
 | 编号 |                             题目                             |  难度  |                             解法                             | 图文思路 | beats Runtime |
 | :--: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
 | 131  | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/DP/131/solution.js) |   暂无   |    33.91%     |
+| 139  |   [单词拆分](https://leetcode-cn.com/problems/word-break/)   | Medium | [DP(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/139/solution.js) |   暂无   |    83.89%     |
 
 
 
