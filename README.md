@@ -14,44 +14,10 @@ HELLO，这里是Kevinlee21，
 + [DP【动态规划】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/DP)
 + [Binary_tree【二叉树】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/Binary_tree)
 + [string【字符串】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/string)
++ [array【数组】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/arr/)
++ [list【链表】](https://github.com/lxxxxxxx21/Leetcode_summary/tree/master/list/)
 
-******
 
-**AC wing Leetcode究极班打卡记录**
-
-| 题号 |   难度   |  考察知识点   | kevinlee | Janhui Wang |
-| :--: | :------: | :-----------: | :------: | ----------- |
-|  1   |   Easy   |               |    √     |             |
-|  2   |  Medium  |               |    √     |             |
-|  3   |  Medium  |               |    √     |             |
-|  4   | **Hard** |               |    √     |             |
-|  5   |  Medium  |               |    √     |             |
-|  6   |  Medium  |               |    √     |             |
-|  7   |   Easy   |               |    √     |             |
-|  8   |  Medium  |               |    √     |             |
-|  9   |  Medium  |               |    √     |             |
-|  10  | **Hard** |               |          |             |
-|  11  |  Medium  |    双指针     |    √     |             |
-|  12  |  Medium  |               |          |             |
-|  13  |   Easy   |               |          |             |
-|  14  |   Easy   |    字符串     |    √     |             |
-|  15  |  Medium  |    双指针     |    √     |             |
-|  16  |  Medium  |    双指针     |    √     |             |
-|  17  |  Medium  |   回溯算法    |    √     |             |
-|  18  |  Medium  | 双指针+哈希表 |    √     |             |
-|  19  |  Medium  |    双指针     |    √     |             |
-|  20  |   Easy   |      栈       |    √     |             |
-|  21  |   Easy   |     链表      |    √     |             |
-|  22  |  Medium  |   回溯算法    |    √     |             |
-|  23  | **Hard** |               |          |             |
-|  24  |  Medium  |     链表      |    √     |             |
-|  25  | **Hard** |               |          |             |
-|  26  |   Easy   |    双指针     |    √     |             |
-|  27  |   Easy   |    双指针     |    √     |             |
-|  28  |   Easy   |    双指针     |    √     |             |
-|  29  |  Medium  |    二分法     |    √     |             |
-|  30  | **Hard** |               |          |             |
-|  31  |  Miduem  |     数组      |    √     |             |
 
 ******
 
@@ -77,7 +43,7 @@ HELLO，这里是Kevinlee21，
 |     70      | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | Medium | [DP](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1300/solution.js) |                             暂无                             | 6/13 |    11.57%     |
 |    1300     | [转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/70/solution.js) |                             暂无                             | 6/14 |    35.71%     |
 |     14      | [ 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) |  Easy  | [字符串(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.js)/[字符串(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.cpp) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483769&idx=1&sn=6ae331985e9d7e16390988355883d348&chksm=e8e4d8b5df9351a3102b38a90da5daeb08447d77e607cdf8c24ae676d86b4d18759026fc60d0&token=1675470796&lang=zh_CN#rd) | 6/15 |    70.88%     |
-|     297     | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  Hard  | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/14/solution.py) |                             暂无                             | 6/16 |    74.40%     |
+|     297     | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  Hard  | [BFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/297/solution.py) |                             暂无                             | 6/16 |    74.40%     |
 |    1014     | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | Medium | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.js)/[数组(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.cpp)/[数组(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1014/solution.py) |                             暂无                             | 6/17 |    33.71%     |
 |    1028     | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |  Hard  | [DFS](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.js)/[递归(Python版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/1028/solution.py) |                             暂无                             | 6/18 |    50.00%     |
 |     125     | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |  Easy  | [字符串(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.js)/[字符串(C++版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/125/solution.cpp) |                             暂无                             | 6/19 |    60.59%     |
@@ -171,7 +137,7 @@ HELLO，这里是Kevinlee21，
 
  
 
-**数组**
+**Array(数组)**
 
 |   编号   |                             题目                             |  难度  |                             解法                             | 图文思路 | BEATS RUNTIME |
 | :------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------------: | :------: | :-----------: |
@@ -182,4 +148,10 @@ HELLO，这里是Kevinlee21，
 |    73    | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/73/solution.js) |   暂无   |    52.59%     |
 |   238    | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | Medium | [数组](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/TOP_interview/238/solution1.js) |   暂无   |    87.33%     |
 |          |                                                              |        |                                                              |          |               |
+
+**List(链表)**
+
+| 编号 |                             题目                             | 难度 |                             解法                             | 图文思路 | BEATS RUNTIME |
+| :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :------: | :-----------: |
+|  23  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | Hard | [链表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/list/23/solution.js) |          |     19.30     |
 
