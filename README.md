@@ -51,6 +51,7 @@ HELLO，这里是Kevinlee21，
 |     16      | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/16/solution.js) |                             暂无                             | 6/24 |    95.26%     |
 |     139     |   [单词拆分](https://leetcode-cn.com/problems/word-break/)   | Medium | [DP(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/139/solution.js) |                             暂无                             | 6/25 |    83.89%     |
 | 面试题02.01 | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Medium | [链表+哈希表(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题02.01/solution.js) |                             暂无                             | 6/26 |    78.48%     |
+|     41      | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |  Hard  | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/41/solution.js) |                             暂无                             | 6/27 |    78.11%     |
 
 ******
 
@@ -82,7 +83,7 @@ HELLO，这里是Kevinlee21，
 |  76  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |  Hard  | [位运算+Hash](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/76/solution.js) |                             暂无                             |    56.63%     |
 |  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/15/solution.js) |                             暂无                             |    10.01%     |
 |  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/16/solution.js) |                             暂无                             |    33.64%     |
-|  19  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/19/solution.js) |                             暂无                             |     83.3%     |
+|  19  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Medium | [双指针](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/two-points/19/solution.js) | [点击进入](https://mp.weixin.qq.com/s?__biz=MzIzNTU0MDY0Mw==&mid=2247483775&idx=1&sn=8641671d412e8339254ee0f6562f5860&chksm=e8e4d8b3df9351a548b537e3c722f1f2688f1d8628ad5ab106fc07d0dc396a2724a3b98a9f70&token=1161376444&lang=zh_CN#rd) |     83.3%     |
 |  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | Medium | [双指针(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/16/solution.js) |                             暂无                             |    95.26%     |
 
 
@@ -153,5 +154,5 @@ HELLO，这里是Kevinlee21，
 
 | 编号 |                             题目                             | 难度 |                             解法                             | 图文思路 | BEATS RUNTIME |
 | :--: | :----------------------------------------------------------: | :--: | :----------------------------------------------------------: | :------: | :-----------: |
-|  23  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | Hard | [链表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/list/23/solution.js) |          |     19.30     |
+|  23  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | Hard | [链表](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/list/23/solution.js) |          |    19.30%     |
 
