@@ -52,6 +52,9 @@ HELLO，这里是Kevinlee21，
 |     139     |   [单词拆分](https://leetcode-cn.com/problems/word-break/)   | Medium | [DP(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/139/solution.js) |                             暂无                             | 6/25 |    83.89%     |
 | 面试题02.01 | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | Medium | [链表+哈希表(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/面试题02.01/solution.js) |                             暂无                             | 6/26 |    78.48%     |
 |     41      | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |  Hard  | [数组(JS版本)](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/41/solution.js) |                             暂无                             | 6/27 |    78.11%     |
+|     209     | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/209/solution.js) |                             暂无                             | 6/28 |    41.81%     |
+|     215     | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | Medium | [堆](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/215/solution.js) |                             暂无                             | 6/29 |     5.03%     |
+|     378     | [有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium | [二分搜索](https://github.com/lxxxxxxx21/Leetcode_summary/blob/master/daily/378/solution.js) |                             暂无                             | 7/2  |    95.65%     |
 
 ******
 
